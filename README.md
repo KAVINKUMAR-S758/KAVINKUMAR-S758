@@ -17,10 +17,15 @@
 
 ## 🏆 Achievements
 
-- 🏅 **Reported two critical vulnerabilities** in Tata Motors systems.
-- 📜 **Hall of Fame** recognition by Tata Motors for ethical disclosure.
-- 💡 Built several impactful security projects (listed below 👇).
-
+- 🏅 **Recognized in Hall of Fame pages** of renowned organizations including:
+  - **UNESCO**
+  - **Tata Motors**
+  - **U.S. Department of Agriculture**
+  - **U.S. Department of Labor**
+- 🎯 **Bounty rewarded** for identifying and responsibly disclosing vulnerabilities in **Gandi**, a domain registrar and web hosting service.
+- 📚 Received a **$50 digital book reward** from **Kodeco** for finding a **critical vulnerability** in their system.
+- 🛒 Earned **acknowledgments from multiple eCommerce platforms** for securing their applications.
+- 🔐 CAP (**Certified Authorization Professional**) certified.
 ---
 
 ## 🧪 Projects

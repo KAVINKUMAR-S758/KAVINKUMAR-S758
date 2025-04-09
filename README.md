@@ -25,7 +25,7 @@
 - 🎯 **Bounty rewarded** for identifying and responsibly disclosing vulnerabilities in **Gandi**, a domain registrar and web hosting service.
 - 📚 Received a **$50 digital book reward** from **Kodeco** for finding a **critical vulnerability** in their system.
 - 🛒 Earned **acknowledgments from multiple eCommerce platforms** for securing their applications.
-- 🔐 CAP (**Certified Authorization Professional**) certified.
+- 🔐 CAP (**Certified Appsec Practioner**) certified.
 ---
 
 ## 🧪 Projects

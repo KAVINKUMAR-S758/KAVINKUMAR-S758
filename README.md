@@ -60,8 +60,7 @@
 
 ## 📫 Get in Touch
 
-- 💼 [LinkedIn](www.linkedin.com/in/
-KAVINKUMAR-S758
+- 💼 [LinkedIn](www.linkedin.com/in/KAVINKUMAR-S758
 ) <!-- Replace with your profile link -->
 - 📧 Email: kavinkumarkumar758@gmail.com <!-- Replace with your email -->
 

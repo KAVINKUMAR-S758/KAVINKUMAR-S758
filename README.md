@@ -17,7 +17,7 @@ A curated showcase of my **security projects, achievements, skills, and hands-on
 
 ## 🧑‍💻 About Me
 
-- 🛡️ **VAPT Intern** with hands-on experience in **web and mobile application security testing**.
+- 🛡️ **VAPT Intern** with hands-on experience in **web and mobile application, API and Network(External & Internal) security testing**.
 - 🔍 Security researcher focused on **identifying, exploiting, and responsibly disclosing vulnerabilities**.
 - 🏆 Recognized by multiple global organizations for discovering **critical and high-impact security flaws**.
 - 🧪 Strong interest in **offensive security**, real-world exploitation, and security research.

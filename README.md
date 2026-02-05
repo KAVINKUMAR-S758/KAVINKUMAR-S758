@@ -1,74 +1,111 @@
 # 👋 Hi there, I'm Kavinkumar S!
 
-🔐 **Cybersecurity Enthusiast | Ethical Hacker | Penetration Tester**  
-🎯 Passionate about uncovering vulnerabilities and securing the digital world.  
-📍 Currently seeking opportunities in VAPT, Bug Bounty, and Security Research.
+🔐 **VAPT Intern | Ethical Hacker | Security Researcher**  
+🎯 Passionate about uncovering real-world vulnerabilities and strengthening application security.  
+📍 Actively working in Vulnerability Assessment & Penetration Testing (VAPT) and Bug Bounty Research.
+
+---
+
+## 🌐 Portfolio
+
+🔗 **Live Portfolio:**  
+👉 https://kavinkumar-portfolio-six.vercel.app/
+
+A curated showcase of my **security projects, achievements, skills, and hands-on work** in application security and penetration testing.
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 🎓 Security Researcher with a strong interest in **Vulnerability Assessment & Penetration Testing (VAPT)**.
-- 🛡️ Ethical hacker recognized in the **Tata Motors Hall of Fame** for discovering critical vulnerabilities.
-- 📱 Skilled in **Web & Mobile Application Security**, with hands-on experience in bug bounty programs.
-- 🛠️ I love building security tools, writing detailed reports, and automating testing workflows.
+- 🛡️ **VAPT Intern** with hands-on experience in **web and mobile application security testing**.
+- 🔍 Security researcher focused on **identifying, exploiting, and responsibly disclosing vulnerabilities**.
+- 🏆 Recognized by multiple global organizations for discovering **critical and high-impact security flaws**.
+- 🧪 Strong interest in **offensive security**, real-world exploitation, and security research.
+- ✍️ Experienced in writing **clear, client-ready VAPT reports** with accurate risk assessment and remediation guidance.
 
 ---
 
-## 🏆 Achievements
+## 💼 Current Role
 
-- 🏅 **Recognized in Hall of Fame pages** of renowned organizations including:
-  - **UNESCO**
+### 🔐 Vulnerability Assessment & Penetration Testing (VAPT) Intern  
+**Cycatz**
+
+- Performing **web and mobile application security assessments**.
+- Identifying vulnerabilities aligned with **OWASP Top 10** and real-world attack scenarios.
+- Conducting **manual and automated testing** using industry-standard tools.
+- Documenting findings with **proof of concept (PoC)**, impact analysis, and remediation steps.
+- Assisting in **security hardening and validation of fixes**.
+
+---
+
+## 🏆 Achievements & Recognition
+
+- 🏅 **Hall of Fame Recognition** for discovering critical vulnerabilities in:
   - **Tata Motors**
+  - **UNESCO**
   - **U.S. Department of Agriculture**
   - **U.S. Department of Labor**
-- 🎯 **Bounty rewarded** for identifying and responsibly disclosing vulnerabilities in **Gandi**, a domain registrar and web hosting service.
-- 📚 Received a **$50 digital book reward** from **Kodeco** for finding a **critical vulnerability** in their system.
-- 🛒 Earned **acknowledgments from multiple eCommerce platforms** for securing their applications.
-- 🔐 CAP (**Certified Appsec Practioner**) certified.
+- 🎯 **Bounty rewarded** for responsible disclosure to **Gandi** (Domain Registrar & Web Hosting).
+- 📚 Received a **$50 digital book reward** from **Kodeco** for identifying a **critical vulnerability**.
+- 🛒 Acknowledged by multiple **eCommerce platforms** for securing their applications.
+- 🔐 **CAP – Certified AppSec Practitioner** certified.
+
 ---
 
 ## 🧪 Projects
 
 ### 🔍 Web Honeypot
-> A lightweight honeypot designed to mimic real web servers and attract malicious actors for analysis.
+*A lightweight honeypot designed to attract and analyze malicious traffic.*
 
-- Tracks attackers’ behavior and collects logs for threat intelligence.
-- Built with Python & Flask.
+- Simulates real web server behavior.
+- Captures attacker payloads, IPs, and request patterns.
+- Useful for **threat intelligence and attack analysis**.
+- **Tech Stack:** Python, Flask
 
-### 🛡️ SQL Injection Detector
-> A script that automatically detects SQL injection vulnerabilities in target URLs.
+---
 
-- Supports both manual and automated testing.
-- Written in Python with `requests` and `BeautifulSoup`.
+### 🛡️ SQL Injection Detection Tool
+*A script to identify SQL injection vulnerabilities in web applications.*
+
+- Supports manual and automated testing.
+- Detects error-based and basic injection patterns.
+- **Tech Stack:** Python, `requests`, `BeautifulSoup`
 
 ---
 
 ## 🧰 Skills & Tools
 
-- **Languages:** Python, Bash, JavaScript
-- **Tools:** Burp Suite, Nmap, Metasploit, Nikto, SQLmap, MobSF, Wireshark
-- **Techniques:** OWASP Top 10, Network Pentesting, Mobile App Pentesting, Report Writing
-- **Others:** Git, Linux, API Security Testing, Postman
+### 🔧 Technical Skills
+- **Web Security:** OWASP Top 10, Authentication & Authorization flaws, Business Logic issues
+- **Mobile Security:** Android Pentesting, Manifest analysis, Runtime instrumentation
+- **API Security:** Authorization testing, IDOR, misconfigurations
+- **Network Security:** Port scanning, service enumeration
+
+### 🛠️ Tools
+- Burp Suite, Nmap, Metasploit, SQLmap, Nikto  
+- MobSF, Frida, Drozer  
+- Wireshark, Postman  
+- Git, Linux
+
+### 💻 Languages
+- Python  
+- Bash  
+- JavaScript  
 
 ---
 
-## ✍️ Technical Writing
+## ✍️ Technical Writing & Reporting
 
-📝 I create professional VAPT reports, detailing vulnerabilities with steps to reproduce, screenshots, risk ratings, and remediation.
+📝 Experienced in creating **professional VAPT reports** suitable for clients and internal security teams.
 
-- Writing Style: Clear, concise, no shortcuts.
-- Audience: CTOs, Developers, and Security Teams.
-- Ask me for a sample!
-
----
-
-## 📫 Get in Touch
-
-- 💼 [LinkedIn](www.linkedin.com/in/KAVINKUMAR-S758
-) <!-- Replace with your profile link -->
-- 📧 Email: kavinkumarkumar758@gmail.com <!-- Replace with your email -->
-
+- Includes:
+  - Clear vulnerability descriptions
+  - Steps to reproduce
+  - Proof of Concept (PoC)
+  - Risk ratings
+  - Actionable remediation
+- Writing style: **Clear, structured, and no shortcuts**
+- Audience: **Developers, Security Teams, CTOs**
 
 ---
 
@@ -76,9 +113,17 @@
 
 - Malware Analysis  
 - Red Teaming Techniques  
-- Advanced Exploit Development
+- Advanced Exploitation & Post-Exploitation  
+- Secure Architecture & Hardening  
 
 ---
 
-> 🔓 *“The best defense is a good offense — let's make the internet safer together.”*
+## 📫 Get in Touch
 
+- 🌐 **Portfolio:** https://kavinkumar-portfolio-six.vercel.app/
+- 💼 **LinkedIn:** https://www.linkedin.com/in/KAVINKUMAR-S758  
+- 📧 **Email:** kavinkumarkumar758@gmail.com  
+
+---
+
+> 🔓 *“The best defense is a good offense — test deeply, report responsibly, and secure everything.”*

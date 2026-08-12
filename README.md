@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Kavinkumar S!
 
-🔐 **VAPT Intern | Ethical Hacker | Security Researcher**  
+🔐 **Security Engineer | Ethical Hacker | Security Researcher**  
 🎯 Passionate about uncovering real-world vulnerabilities and strengthening application security.  
 📍 Actively working in Vulnerability Assessment & Penetration Testing (VAPT) and Bug Bounty Research.
 
@@ -17,7 +17,7 @@ A curated showcase of my **security projects, achievements, skills, and hands-on
 
 ## 🧑‍💻 About Me
 
-- 🛡️ **VAPT Intern** with hands-on experience in **web, Mobile application, API and Network(External & Internal) security testing**.
+- 🛡️ **Security Engineer** with hands-on experience in **web, Mobile application, API and Network(External & Internal) security testing**.
 - 🔍 Security researcher focused on **identifying, exploiting, and responsibly disclosing vulnerabilities**.
 - 🏆 Recognized by multiple global organizations for discovering **critical and high-impact security flaws**.
 - 🧪 Strong interest in **offensive security**, real-world exploitation, and security research.
@@ -27,7 +27,7 @@ A curated showcase of my **security projects, achievements, skills, and hands-on
 
 ## 💼 Current Role
 
-### 🔐 Vulnerability Assessment & Penetration Testing (VAPT) Intern  
+### 🔐 Security Engineer
 **Cycatz**
 
 - Performing **web and mobile application security assessments**.
